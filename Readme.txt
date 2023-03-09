@@ -12,6 +12,9 @@ For the development of this project, the following was used: Singleton design pa
 state pattern, decorator pattern, dependency inversion, interfaces, enums, hand-written saving module, and much more.
 
 
+To play the game please use Unity or download the standalone format from:
+https://ziv-vek.itch.io/kingdom-calling
+
 Enjoy!
 
 
