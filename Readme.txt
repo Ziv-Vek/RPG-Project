@@ -5,10 +5,10 @@ Welcome to Kingdom Calling (aka The RPG Project on git)!
 ** Unity version: 2020.3.7f1
 
 ** Assets: 
-This project uses 3rd party models and materials.
+This project uses 3rd party models, materials, textures and sound effects. Some VFX from 3rd party and some was originally made using the particle system.
 
 ** Code and architecture:
-For the development of this project, the following was used: Singleton design pattern, Unity events, the observer pattern, 
+For the development of this project, the following were used: Singleton design pattern, Unity events, the observer pattern, 
 state pattern, decorator pattern, dependency inversion, interfaces, enums, hand-written saving module, and much more.
 
 
